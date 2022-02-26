@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = armen.bagramian@gmail.com
+	name = nathan bag
